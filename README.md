@@ -1,2 +1,2 @@
 # mrcetcollege_demo
-Author : Naresh Goud
+Author : Naresh Goud (mrcet)
